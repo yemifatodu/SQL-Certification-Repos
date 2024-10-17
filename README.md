@@ -5,15 +5,7 @@
 
 ---
 
-### **Table of Contents**
-1. [Certifications](#certifications)
-2. [Featured Projects](#featured-projects)
-3. [Advanced SQL Skills](#advanced-sql-skills)
-4. [Contact Information](#contact-information)
-
----
-
-### **1. Certifications**
+### **Certifications**
 
 #### **SQL for Data Science Certification**
 - **Details**: This certification demonstrates my advanced proficiency in SQL, specifically applied to data science.  
@@ -39,7 +31,7 @@
 
 ---
 
-### **2. Featured Projects**
+### **Featured Projects**
 
 #### Project 1: [Adidas Sales Analysis Using SQL](https://github.com/yemifatodu/SQL-QUERY-FOR-ADIDAS-SALES-PROJECT)
 - **Description**: A detailed analysis of Adidas sales data across different regions, using SQL queries to provide insights into sales performance and trends.
@@ -57,7 +49,7 @@
 
 ---
 
-### **3. Advanced SQL Skills**
+### **Advanced SQL Skills**
 
 Through my projects and certifications, I’ve developed the following advanced SQL skills:
 
@@ -69,7 +61,7 @@ Through my projects and certifications, I’ve developed the following advanced 
 
 ---
 
-### **4. Contact Information**
+### **Contact Information**
 
 - **GitHub**: [yemifatodu](https://github.com/yemifatodu)
 - **LinkedIn**: [Yemi Fatodu](https://www.linkedin.com/in/yemi-fatodu/)
