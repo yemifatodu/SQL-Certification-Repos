@@ -6,53 +6,66 @@
 ---
 
 ### **Table of Contents**
-1. [Featured Projects](#featured-projects)
-2. [Certifications](#certifications)
+1. [Certifications](#certifications)
+2. [Featured Projects](#featured-projects)
 3. [Advanced SQL Skills](#advanced-sql-skills)
 4. [Contact Information](#contact-information)
 
 ---
 
-### **1. Featured Projects**
+### **1. Certifications**
+
+#### **SQL for Data Science Certification**
+- **Details**: This certification demonstrates my advanced proficiency in SQL, specifically applied to data science.  
+- **Skills Covered**: Complex SQL queries, handling large datasets, data transformation, and optimization techniques.
+  
+  ![SQL for Data Science](https://github.com/yemifatodu/EDUCATION-CERTIFICATE/blob/main/ADVANCE%20SQL%20FOR%20DATA%20SCIENCE.jpg)
+
+---
+
+#### **NoSQL for Data Science Certification**
+- **Details**: This certification covers my knowledge of NoSQL databases and their use in data science for managing unstructured data.  
+- **Skills Covered**: Querying NoSQL databases, understanding of unstructured data, and best practices in NoSQL environments.
+  
+  ![NoSQL for Data Science](https://github.com/yemifatodu/EDUCATION-CERTIFICATE/blob/main/ADVVANCED%20NoSQL%20for%20DATA%20Science.jpg)
+
+---
+
+#### **Diploma in Databases and T-SQL**
+- **Details**: A comprehensive diploma focused on database management and T-SQL for performing advanced queries and managing data.
+- **Skills Covered**: Transaction handling, stored procedures, and T-SQL query optimization.
+  
+  ![Diploma in Databases and T-SQL](https://github.com/yemifatodu/EDUCATION-CERTIFICATE/blob/main/photo_2024-10-08_07-55-10.jpg)
+
+---
+
+### **2. Featured Projects**
 
 #### Project 1: [Adidas Sales Analysis Using SQL](https://github.com/yemifatodu/SQL-QUERY-FOR-ADIDAS-SALES-PROJECT)
-- **Description**: This project involves a detailed analysis of Adidas sales data across various regions, leveraging SQL queries to extract valuable insights, compare regional performance, and identify top-selling products.  
-- **Key SQL Skills**: Joins, Aggregations, Subqueries, Group By, Window Functions.  
-- **Takeaway**: Demonstrated ability to handle real-world sales data and extract meaningful business insights through advanced SQL querying techniques.  
+- **Description**: A detailed analysis of Adidas sales data across different regions, using SQL queries to provide insights into sales performance and trends.
+- **Key SQL Skills**: Joins, Subqueries, Window Functions, Aggregation, and Group By.
+  
+  [Go to the project repository](https://github.com/yemifatodu/SQL-QUERY-FOR-ADIDAS-SALES-PROJECT)
 
 ---
 
 #### Project 2: [Meri Skill Sales Data SQL Queries](https://github.com/yemifatodu/SQL-QUERY_MERI-SKILL-SALES-DATA#sql-query_meri-skill-sales-data)
-- **Description**: This project focuses on sales data analysis for Meri Skill, applying SQL to assess sales performance, trends, and regional data.  
-- **Key SQL Skills**: Data cleaning, Filtering with WHERE, Complex Joins, Aggregation Functions.  
-- **Takeaway**: Proficiency in crafting optimized queries to drive business decisions by analyzing datasets from multiple dimensions.
-
----
-
-### **2. Certifications**
-
-#### [SQL for Data Science Certification](https://github.com/yemifatodu/EDUCATION-CERTIFICATE/blob/main/ADVANCE%20SQL%20FOR%20DATA%20SCIENCE.jpg)
-- **Details**: An advanced SQL certification showcasing my ability to perform data analysis using SQL in a data science context.  
-- **Skills Covered**: Complex queries, handling large datasets, data transformation, optimization techniques.  
-
-#### [NoSQL for Data Science Certification](https://github.com/yemifatodu/EDUCATION-CERTIFICATE/blob/main/ADVVANCED%20NoSQL%20for%20DATA%20Science.jpg)
-- **Details**: Certification focusing on NoSQL databases and their application in data science environments.  
-- **Skills Covered**: Understanding and querying NoSQL databases, working with unstructured data.  
-
-#### [Diploma in Databases and T-SQL](https://github.com/yemifatodu/EDUCATION-CERTIFICATE/blob/main/photo_2024-10-08_07-55-10.jpg)
-- **Details**: A diploma focused on mastering databases and T-SQL for managing data and performing complex queries.  
-- **Skills Covered**: Database management, transaction handling, stored procedures, and T-SQL best practices.  
+- **Description**: SQL-driven sales data analysis project for Meri Skill, focusing on performance, trends, and regional sales breakdowns.
+- **Key SQL Skills**: Data cleaning, Filtering, Complex Joins, and Aggregation.
+  
+  [Go to the project repository](https://github.com/yemifatodu/SQL-QUERY_MERI-SKILL-SALES-DATA#sql-query_meri-skill-sales-data)
 
 ---
 
 ### **3. Advanced SQL Skills**
 
-In the course of these projects and certifications, I have acquired the following advanced SQL skills:
+Through my projects and certifications, I’ve developed the following advanced SQL skills:
 
-- **Complex Joins**: Mastery of different types of joins to combine data from multiple tables.
-- **Window Functions**: Expertise in using window functions for cumulative sums, moving averages, and ranking.
-- **Data Transformation**: Skilled in using SQL for data cleaning and transformation to prepare data for analysis.
-- **Query Optimization**: Knowledge of query optimization techniques to improve database performance.
+- **Complex Joins**: I have mastered various types of joins (INNER, LEFT, RIGHT, and FULL) to combine data from multiple tables efficiently.
+- **Window Functions**: Expertise in window functions such as ROW_NUMBER(), RANK(), and aggregate window functions for ranking, cumulative sums, and rolling averages.
+- **Query Optimization**: Knowledge of query optimization techniques to improve SQL query performance, including indexing, query refactoring, and reducing query execution time.
+- **Data Transformation**: Using SQL to transform raw data into meaningful insights by cleansing, filtering, and aggregating data.
+- **Stored Procedures and Views**: Proficiency in writing and managing stored procedures for reusable, optimized query execution, and creating views to simplify data access.
 
 ---
 
@@ -61,8 +74,8 @@ In the course of these projects and certifications, I have acquired the followin
 - **GitHub**: [yemifatodu](https://github.com/yemifatodu)
 - **LinkedIn**: [Yemi Fatodu](https://www.linkedin.com/in/yemi-fatodu/)
 - **Tableau Portfolio**: [Yemi Fatodu - Tableau Projects](https://tabsoft.co/3QUmmCz)
-  
-Feel free to reach out for collaboration or inquiries.
+
+Feel free to reach out for collaboration, job opportunities, or inquiries related to my SQL projects.
 
 ---
 
