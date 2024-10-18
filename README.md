@@ -61,6 +61,24 @@ Through my projects and certifications, I’ve developed the following advanced 
 
 ---
 
+### SQL YouTube Videos:
+
+Below are some YouTube videos that further showcase my knowledge and practical application of SQL:
+
+**1. WHERE Clauses: Comprehensive Tutorial & best Practices part 1:**  
+- **[ Video 1](https://youtu.be/DPq5-xfqVww?si=ecFJH-lfoihXoDib)**  
+  In this video, I cover complex SQL queries that solve business problems, including multi-joins and advanced filtering.
+
+**2. HOW TO CREATE DATABASE TABLE:**  
+- **[Video 2](https://youtu.be/TBmkabYO6QE?si=Ub9PLPnwKsnWsKNQ)**  
+  A detailed tutorial on optimizing SQL queries to improve performance in data-heavy environments.
+
+**3. HOW TO INSERT DATA INTO TABLE:**  
+- **[HOW TO INSERT DATA INTO TABLE](https://youtu.be/vL3opG4Ezwc?si=kSz5hW2ZczXEY9hE)**  
+  This video explores advanced SQL functions, window functions, and their use in complex data scenarios.
+
+---
+
 ### **Contact Information**
 
 - **GitHub**: [yemifatodu](https://github.com/yemifatodu)
